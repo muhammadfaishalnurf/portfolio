@@ -55,7 +55,7 @@ export default function Home() {
         </Layout>
 
         <HireMe />
-    <div className="absolute right-8 bottom-6 inline-block w-24">
+    <div className="absolute right-8 bottom-8 inline-block w-24">
       <Image src={lightBulb} alt="Codebucks" className="w-full h-auto" />
     </div>
       </main>
